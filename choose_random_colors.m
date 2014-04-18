@@ -19,3 +19,5 @@ choices = choices(randperm(n_colors));
 color_matrix = color_matrix(choices, :);
 
 end
+
+% EDIT: My favorite color is green!!!! -HS
