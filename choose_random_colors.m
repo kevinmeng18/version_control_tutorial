@@ -20,4 +20,8 @@ color_matrix = color_matrix(choices, :);
 
 end
 
+<<<<<<< HEAD
 %% Hi this is michelle
+=======
+% EDIT: My favorite color is green!!!! -HS
+>>>>>>> FETCH_HEAD
